@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+sentencepiece
+indic-nlp-library
+sacremoses
+langdetect
